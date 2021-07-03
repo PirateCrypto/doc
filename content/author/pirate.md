@@ -1,7 +1,9 @@
 +++
 title = "Pirate"
-image = "/images/author/john-doe.jpg"
+image = "/images/author/pirate.png"
 description = "King of the open seas."
 +++
 
-I like cryptocurrency.
+---
+
+###  “I am a man of fortune and must seek my fortune.”
