@@ -8,7 +8,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 
 [params]
 home = "Home"
-logo = "images/logo.svg"
+logo = "images/logo_med.svg"
 author = "Themefisher"
 description = "Where Pirate shares all of their cryptocurrency development projects."
 google_tag_manager = "" # your id
