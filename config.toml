@@ -24,7 +24,7 @@ preloader = "" # use png, jpg, svg or gif format
 enable = true
 
 [params.banner]
-bgImage = "images/banner/banner.svg"
+bgImage = "images/banner/banner_blurred.svg"
 title = "Welcome aboard."
 image = ""
 
