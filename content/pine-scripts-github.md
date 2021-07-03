@@ -1,5 +1,5 @@
 +++
-title = "Pine Scripts"
+title = "Pine Scripts on GitHub"
 image = "/images/post/candles.png"
 author = "Pirate"
 date = 2021-07-03T05:00:00Z
