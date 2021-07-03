@@ -25,7 +25,7 @@ enable = true
 
 [params.banner]
 bgImage = "images/banner/banner.svg"
-title = "I am a man of fortune and must seek my fortune."
+title = "Welcome aboard."
 image = ""
 
 [params.cta]
