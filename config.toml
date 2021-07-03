@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Northendlab Forestry starter"
+title = "The Pirate Ship"
 theme = "github.com/themefisher/northendlab-hugo"
 paginate = "5"
 summaryLength = "10"
@@ -10,11 +10,11 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 home = "Home"
 logo = "images/logo.svg"
 author = "Themefisher"
-description = "This is meta description"
+description = "Where Pirate shares all of their cryptocurrency development projects."
 google_tag_manager = "" # your id
 google_analitycs_id = "" # your id
 contact_form_action = "#" # contact form works with : https://formspree.io
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2021 [Pirate](https://www.thepirateship.dev/")
 
 [params.preloader]
 enable = true
@@ -24,9 +24,9 @@ preloader = "" # use png, jpg, svg or gif format
 enable = true
 
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
-image = "images/banner/illustration.svg"
+bgImage = "images/banner/bannersvg"
+title = "Hop aboard the Pirate Ship and follow me through cryptocurrency development!"
+image = ""
 
 [params.cta]
 enable = true
