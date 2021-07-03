@@ -21,7 +21,7 @@ enable = true
 preloader = "" # use png, jpg, svg or gif format
 
 [params.search]
-enable = true
+enable = false
 
 [params.banner]
 bgImage = "images/banner/banner_blurred.svg"
