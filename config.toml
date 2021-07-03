@@ -24,8 +24,8 @@ preloader = "" # use png, jpg, svg or gif format
 enable = true
 
 [params.banner]
-bgImage = "images/banner/bannersvg"
-title = "Hop aboard the Pirate Ship and follow me through cryptocurrency development!"
+bgImage = "images/banner/banner.svg"
+title = "I am a man of fortune and must seek my fortune."
 image = ""
 
 [params.cta]
