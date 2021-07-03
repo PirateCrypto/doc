@@ -6,9 +6,13 @@ date = 2021-07-03T05:00:00Z
 description = "Sharing my Pine Scripts with the world, free to use with TradingView."
 categories = ["Pine Script"]
 type = "post"
-
 +++
-## Moving Averages
+
+---
+
+I recently made a GitHub repository for sharing my TradingView indicators and Pine Scripts. It only includes a finite amount of things right now, but I plan on adding in some more as time goes by and I continue learning the ins and outs of TradingView and Pine Script.
+
+---
 
 **[2 Moving Averages and Golden/Death Crosses](https://github.com/PirateCrypto/TradingView/blob/main/Indicators/%5BPirate%5D%202MA%20Cross.pine)**
 >A moving-average crossover occurs when, on plotting two moving averages each based on different degrees of smoothing, the traces of these moving averages cross. It does not predict future direction but shows trends. This indicator uses two moving averages, a slower moving average and a faster moving average. The faster moving average is a short term moving average.
