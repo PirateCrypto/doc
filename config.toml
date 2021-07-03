@@ -14,7 +14,7 @@ description = "Where Pirate shares all of their cryptocurrency development proje
 google_tag_manager = "" # your id
 google_analitycs_id = "" # your id
 contact_form_action = "#" # contact form works with : https://formspree.io
-copyright = "&copy; 2021 [Pirate](https://www.thepirateship.dev/")
+copyright = "&copy; 2021 [Pirate]("https://www.thepirateship.dev/")
 
 [params.preloader]
 enable = true
