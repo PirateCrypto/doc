@@ -1,6 +1,6 @@
 +++
 title = "Pine Scripts"
-image = "/images/post/post-1.jpg"
+image = "/images/post/candles.png"
 author = "Pirate"
 date = 2021-07-03T05:00:00Z
 description = "Sharing my Pine Scripts with the world, free to use with TradingView."
