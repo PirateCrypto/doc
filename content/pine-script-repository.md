@@ -12,6 +12,8 @@ type = "post"
 
 I recently made a GitHub repository for sharing my TradingView indicators and Pine Scripts. It only includes a finite amount of things right now, but I plan on adding in some more as time goes by and I continue learning the ins and outs of TradingView and Pine Script.
 
+You can view the GitHub repository with the complete code [from this link](https://github.com/PirateCrypto/TradingView).
+
 ---
 
 **[2 Moving Averages and Golden/Death Crosses](https://github.com/PirateCrypto/TradingView/blob/main/Indicators/%5BPirate%5D%202MA%20Cross.pine)**
