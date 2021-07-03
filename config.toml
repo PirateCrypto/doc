@@ -29,12 +29,12 @@ title = "Welcome aboard."
 image = ""
 
 [params.cta]
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 [params.cta.button]
-enable = true
+enable = false
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 
