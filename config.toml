@@ -9,7 +9,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 [params]
 home = "Home"
 logo = "NeedToResize.png" # Need to find a resized logo.
-author = "Themefisher"
+author = "Pirate"
 description = "Where Pirate shares all of their cryptocurrency development projects."
 google_tag_manager = "" # your id
 google_analitycs_id = "" # your id
@@ -51,25 +51,15 @@ link = "#"
 icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 link = "#"
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
+#[[menu.main]]
+#URL = "contact"
+#name = "Contact"
+#weight = 1
 
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
-
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
+#[[menu.footer]]
+#URL = "contact"
+#name = "Contact"
+#weight = 1
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -83,9 +73,9 @@ link = "plugins/themify-icons/themify-icons.css"
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
+#[[params.plugins.js]]
+#link = "plugins/search/fuse.min.js"
+#[[params.plugins.js]]
+#link = "plugins/search/mark.js"
+#[[params.plugins.js]]
+#link = "plugins/search/search.js"
