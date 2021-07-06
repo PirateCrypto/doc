@@ -1,0 +1,83 @@
+baseURL: "https://thepirateship.dev/"
+title: The Pirate Ship
+paginate: 5
+theme: PaperMod-5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production
+    title: The Pirate Ship
+    description: "A place where Pirates can learn more about interesting coding topics."
+    keywords: [Cryptocurrency, Parallax, GitHub, TradingView]
+    author: Pirate
+    images: ["/authors/pirate.png"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: false
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: true
+    showtoc: false
+    tocopen: true
+
+    assets:
+        favicon: "/logo/logo.svg"
+        favicon16x16: "/logo/logo.svg"
+        favicon32x32: "/logo/logo.svg"
+        apple_touch_icon: "/logo/logo.svg"
+        safari_pinned_tab: "/logo/logo.svg"
+
+    label:
+        text: "The Pirate Ship"
+        icon: /logo/logo.svg
+        iconHeight: 35
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Welcome board, fellow pirate!"
+        Content: 
+          Here you will find various GitHub repositories and research posts regarding coding and development for Cryptocurrencies.
+
+
+          You can also check out my profile on GitHub where I post all of these repositories by [following this link](https://github.com/PirateCrypto)!
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+menu:
+    main:
+        - identifier: announcements
+          name: Announcements
+          url: /announcements/
+          weight: 10
+        - identifier: indicators
+          name: Indicators
+          url: /indicators/
+          weight: 10
+        - identifier: cryptocurrency
+          name: Cryptocurrency
+          url: /cryptocurrency/
+          weight: 10
+
+taxonomies:
+    category: categories
+    tag: tags

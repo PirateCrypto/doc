@@ -2,9 +2,15 @@
 title: "Website Update"
 date: 2021-07-05T13:44:19-05:00
 draft: false
+categories: ["announcements"]
+tags: ["website"]
 ---
 
-![Chart](/posts/hugo.svg#center)
+---
+
+![Hugo](/posts/hugo.svg#center)
+
+---
 
 I am currently in the process of updating the main website using [Hugo](https://github.com/gohugoio/hugo) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. This itself is a project that I'll be learning from as well, although it has nothing to do with Cryptocurrency. 
 
