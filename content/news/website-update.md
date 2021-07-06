@@ -2,13 +2,11 @@
 title: "Website Update"
 date: 2021-07-05T22:21:00-05:00
 draft: false
-categories: ["announcements"]
+categories: ["news"]
 tags: ["website"]
 ---
 
-![Hugo](/posts/hugo.svg#center)
-
----
+![Hugo](/news/update-0/hugo.svg#center)
 
 The process of updating the main website from GitHub Pages to [Hugo](https://github.com/gohugoio/hugo) with the [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod) is complete.
 

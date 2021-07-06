@@ -37,11 +37,11 @@ params:
     tocopen: true
 
     assets:
-        favicon: "/logo/logo.svg"
-        favicon16x16: "/logo/logo.svg"
-        favicon32x32: "/logo/logo.svg"
-        apple_touch_icon: "/logo/logo.svg"
-        safari_pinned_tab: "/logo/logo.svg"
+        favicon: "/logo.svg"
+        favicon16x16: "/logo.svg"
+        favicon32x32: "/logo.svg"
+        apple_touch_icon: "/logo.svg"
+        safari_pinned_tab: "/logo.svg"
 
     label:
         text: "The Pirate Ship"
@@ -49,31 +49,37 @@ params:
     profileMode:
         enabled: true
         subtitle: "A collection of research and code for cryptocurrencies."
-        imageUrl: "/logo/logo.svg" # optional
+        imageUrl: "/logo.svg" # optional
         imageWidth: 240 # custom size
         imageHeight: 240 # custom size
         buttons:
-            - name: Announcements
-              url: "/announcements"
+            - name: News
+              url: "/news"
             - name: Indicators
               url: "/indicators"
-            - name: Cryptocurrency
-              url: "/cryptocurrency"
+            - name: Guides
+              url: "/guides"
+            - name: Cryptos
+              url: "/cryptos"
 
 menu:
     main:
-        - identifier: announcements
-          name: Announcements
-          url: /announcements/
+        - identifier: news
+          name: News
+          url: /news/
           weight: 1
         - identifier: indicators
           name: Indicators
           url: /indicators/
           weight: 2
-        - identifier: cryptocurrency
-          name: Cryptocurrency
-          url: /cryptocurrency/
+        - identifer: guides
+          name: Guides
+          url: /guides/
           weight: 3
+        - identifier: cryptos
+          name: Cryptos
+          url: /cryptos/
+          weight: 4
 
 taxonomies:
     category: categories
