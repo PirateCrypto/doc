@@ -3,13 +3,11 @@ title: "Parallax"
 date: 2021-07-05T13:43:48-05:00
 draft: false
 ShowToc: true
-categories: ["solidity", "crypto development"]
+categories: ["solidity", "development"]
 tags: ["parallax"]
 ---
 
-![Parallax](/posts/parallax.png#center)
-
----
+![Parallax](/cryptos/parallax/parallax.png#center)
 
 ### Summary
 This is the first draft of the Solidity contract for the Parallax token I am writing. This will most likely not evolve into an actual token that is traded, it is really just for my own learning purposes.
