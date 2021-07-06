@@ -7,17 +7,24 @@ categories: ["pine scripts", "tradingview"]
 tags: ["moving-averages"]
 ---
 
-## Triple Exponential Moving Average (TEMA)
-![TEMA](/posts/pine/tema/tema.png)
-
+### Summary
 The triple exponential moving average (TEMA) was designed to smooth price fluctuations, thereby making it easier to identify trends without the lag associated with traditional moving averages (MA). 
 
 It does this by taking multiple exponential moving averages (EMA) of the original EMA and subtracting out some of the lag. The TEMA is used like other MAs. It can help identify trend direction, signal potential short-term trend changes or pullbacks, and provide support or resistance.
 
-#### Key Points
+---
+
+### Key Points
 - Coming soon
 
-#### Pine Script
+---
+
+### Preview
+![TEMA](/pine/tema/tema.png)
+
+---
+
+### Pine Script
 {{< highlight tv >}}
 // © Pirate
 //@version=4
@@ -60,7 +67,11 @@ plot(dMid ? mEMA : na, linewidth=mWidth, color=mColor) // Plot Mid EMA
 plot(dSlow ? sEMA : na, linewidth=sWidth, color=sColor) // Plot Slow EMA
 {{< / highlight >}}
 
-#### More Information
+---
+
+### More Information
 > [More information about TEMAs](https://www.investopedia.com/terms/t/triple-exponential-moving-average.asp)
 >
 > [View this indicator on GitHub](https://github.com/PirateCrypto/TradingView/blob/main/Indicators/%5BPirate%5D%20Triple%20EMA.pine)
+
+---
