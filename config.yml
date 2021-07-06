@@ -22,12 +22,11 @@ params:
     images: ["/authors/pirate.png"]
     DateFormat: "January 2, 2006"
     defaultTheme: dark
-    disableThemeToggle: false
-
+    disableThemeToggle: true
     ShowReadingTime: true
     ShowShareButtons: false
     ShowPostNavLinks: true
-    ShowBreadCrumbs: true
+    ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
@@ -46,37 +45,35 @@ params:
 
     label:
         text: "The Pirate Ship"
-        icon: /logo/logo.svg
-        iconHeight: 35
 
-    # home-info mode
-    homeInfoParams:
-        Title: "Welcome board, fellow pirate!"
-        Content: 
-          Here you will find various GitHub repositories and research posts regarding coding and development for Cryptocurrencies.
-
-
-          You can also check out my profile on GitHub where I post all of these repositories by [following this link](https://github.com/PirateCrypto)!
-
-    cover:
-        hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
+    profileMode:
+        enabled: true
+        subtitle: "A collection of research and code for cryptocurrencies."
+        imageUrl: "/logo/logo.svg" # optional
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+        buttons:
+            - name: Announcements
+              url: "/announcements"
+            - name: Indicators
+              url: "/indicators"
+            - name: Cryptocurrency
+              url: "/cryptocurrency"
 
 menu:
     main:
         - identifier: announcements
           name: Announcements
           url: /announcements/
-          weight: 10
+          weight: 1
         - identifier: indicators
           name: Indicators
           url: /indicators/
-          weight: 10
+          weight: 2
         - identifier: cryptocurrency
           name: Cryptocurrency
           url: /cryptocurrency/
-          weight: 10
+          weight: 3
 
 taxonomies:
     category: categories

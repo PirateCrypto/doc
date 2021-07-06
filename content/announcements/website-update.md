@@ -1,20 +1,24 @@
 ---
 title: "Website Update"
-date: 2021-07-05T13:44:19-05:00
+date: 2021-07-05T22:21:00-05:00
 draft: false
 categories: ["announcements"]
 tags: ["website"]
----
-
 ---
 
 ![Hugo](/posts/hugo.svg#center)
 
 ---
 
-I am currently in the process of updating the main website using [Hugo](https://github.com/gohugoio/hugo) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. This itself is a project that I'll be learning from as well, although it has nothing to do with Cryptocurrency. 
+The process of updating the main website from GitHub Pages to [Hugo](https://github.com/gohugoio/hugo) with the [PaperMod Theme](https://github.com/adityatelange/hugo-PaperMod) is complete.
 
-As always, the source is up on GitHub and can be seen [on GitHub](https://github.com/PirateCrypto/tps-website/).
+The website is now hosted by [Render](https://render.com/), which will help the inflow of posts by creating a streamlined system from development to production:
+
+> 1. Make edits in the [development branch](https://github.com/PirateCrypto/tps-website/tree/development)
+> 2. Commit and push edited code.
+> 3. Create a PR on the [master branch](https://github.com/PirateCrypto/tps-website/tree/master) with your edits.
+> 4. Test out the edited site after Render creates a test site in the PR you created.
+> 5. If everything looks good, merge with master.
 
 If you have any suggestions on how the website can be made better, feel free to contact me through GitHub or just create an issue on the main repository.
 

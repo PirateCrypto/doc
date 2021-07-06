@@ -7,9 +7,7 @@ categories: ["pine scripts", "tradingview"]
 tags: ["moving-averages"]
 ---
 
-## Two Moving Averages and Golden/Death Crosses
-![Golden and Death Cross](/posts/pine/gdc/gcdc.png#center)
-
+### Summary
 A moving-average crossover occurs when, on plotting two moving averages each based on different degrees of smoothing, the traces of these moving averages cross. It does not predict future direction but shows trends. This indicator uses two moving averages, a slower moving average and a faster moving average. The faster moving average is a short term moving average. 
 
 The 2MA Cross indicator provides 2 plotted moving averages of types EMA, SMA, RMA, WMA and VWMA. This also provides golden and death cross plot points and a wide variety of customization options.
@@ -18,7 +16,9 @@ The golden cross is a chart pattern that is a bullish signal in which a relative
 
 The death cross is a technical chart pattern indicating the potential for a major sell-off. The death cross appears on a chart when a stock’s short-term moving average crosses below its long-term moving average. Typically, the most common moving averages used in this pattern are the 50-day and 200-day moving averages.
 
-#### Key Points
+---
+
+### Key Points
 - Plots two moving averages, a *short-term moving average* and a *long-term moving average*.
   - Each moving average time frame can be changed by the user.
 - Plots a symbol for the *golden cross pattern*.
@@ -26,7 +26,14 @@ The death cross is a technical chart pattern indicating the potential for a majo
 - Plots a symbol for the *death cross pattern*.
   - Occurs when a *short-term moving average* crosses **below** the *long-term moving average*.
 
-#### Pine Script
+---
+
+### Preview
+![Golden and Death Cross](/pine/gdc/gcdc.png#center)
+
+---
+
+### Pine Script
 {{< highlight tv >}}
 // © Pirate
 //@version=4
@@ -119,7 +126,11 @@ plotshape(dDC ? dCross : na,
      textcolor=dCT ? dctColor : noColor)
 {{< / highlight >}}
 
-#### More Information
+---
+
+### More Information
 > [More information about Golden/Death Crosses](https://www.investopedia.com/ask/answers/121114/what-difference-between-golden-cross-and-death-cross-pattern.asp)
 > 
 > [View this indicator on GitHub](https://github.com/PirateCrypto/TradingView/blob/main/Indicators/%5BPirate%5D%202MA%20Cross.pine)
+
+---

@@ -6,15 +6,23 @@ ShowToc: true
 categories: ["pine scripts", "tradingview"]
 tags: ["pivot-points"]
 ---
-## Highs and Lows (In-Progress)
-![HL](/posts/pine/hl/hl.png#center)
 
+### Summary
 Right now, this script only labels highs and lows based on fibonacci pivot points because it's not yet complete. I will be adding on to this and continuing development soon.
 
-#### Key Points
+---
+
+### Key Points
 - Coming soon
 
-#### Pine Script
+---
+
+### Preview
+![HL](/pine/hl/hl.png#center)
+
+---
+
+### Pine Script
 {{< highlight tv >}}
 //----------------------------------------------------------------------------//
 // © Pirate
@@ -96,7 +104,11 @@ lLabel=drawLabel(lStrength, lPiv, label.style_label_up, yloc.belowbar, lColor)
 //----------------------------------------------------------------------------//
 {{< / highlight >}}
 
-#### More Information
+---
+
+### More Information
 > [More information about Highs and Lows](https://www.investopedia.com/terms/p/pivotpoint.asp)
 >
 > [View this indicator on GitHub](https://github.com/PirateCrypto/TradingView/blob/main/Indicators/%5BPirate%5D%20Highs%20and%20Lows.pine)
+
+---
