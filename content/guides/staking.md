@@ -96,6 +96,53 @@ Staking often requires a lockup or “vesting” period, where your crypto can�
 ---
 
 ## How do I start staking?
-Coming soon...
+
+### How to stake on Coinbase
+Coinbase staking is a great starting point for newcomers as it is available to almost everyone and there is no lockup or vesting period.
+
+**1. Choose a coin to stake.**
+
+| Coin       |   | APY                   |
+| ---------- | - | --------------------- |
+| USD Coin   |   | 0.15% APY - 5.00% APY |
+| Dai        |   | 2.00% APY             |
+| Tezos      |   | 4.63% APY             |
+| Algorand   |   | 4.00% APY             |
+| Cosmos     |   | 5.00% APY             |
+| Ethereum 2 |   | 5.00% APY             |
+
+*Note that Ethereum 2 (ETH2) staking on Coinbase will involve a locking period until Ethereum 2 is released.*
+
+**2. Purchase or obtain the coin you want to stake.**
+
+For the sake of this guide, let's say you purchase $100.00 USD worth of Cosmos at $10.00 per coin; that's 10 ATOM total. Coinbase does not have a locking or vesting period for staking Cosmos, so you are already gaining rewards for holding it! That means you technically are already staking your coin as long as you are holding at least the required amount to gain rewards. The minimum balance for each coin on Coinbase to stake is shown below.
+
+| Coin       |   | Minimum Balance      |
+| ---------- | - | -------------------- |
+| USD Coin   |   | $1.00 USD Equivalent |
+| Dai        |   | $1.00 USD Equivalent |
+| Tezos      |   | 1.00 XTZ             |
+| Algorand   |   | 0.01 ALGO            |
+| Cosmos     |   | 1.00 ATOM            |
+| Ethereum 2 |   | No minimum balance   |
+
+This is how most coins stake on Coinbase, with the exception of Ethereum 2, in which is locked until Ethereum 2 is realeased.
+
+**3. Receive rewards for the coins you hold.**
+
+Currently, on Coinbase, the Annual Percentage Yield (APY) for Cosmos is 5.00% APY. This means, that within a full year of staking, you will gain 5.00% of the 10 ATOM that you purchased, which is 0.5 ATOM total.
+
+When holding the required amount of a stakable coin on Coinbase, you are already gaining rewards. However, they each are dispersed at a different time, depending upon that coin's staking protocol. The rewards payout rates for each coin on Coinbase to stake is shown below.
+
+| Coin       |   | Reward Payout        |
+| ---------- | - | -------------------- |
+| USD Coin   |   | 1 Month              |
+| Dai        |   | 1 Day                |
+| Tezos      |   | 3 Days               |
+| Algorand   |   | 1 Day                |
+| Cosmos     |   | 7 Days               |
+| Ethereum 2 |   | 1 Day                |
+
+So, after 7 days, you will receive the first rewards from your staked Cosmos, which will be credited directly into your Coinbase Cosmos balance. Congratulations, you just staked a coin on Coinbase!
 
 ---
