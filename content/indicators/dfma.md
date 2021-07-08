@@ -18,7 +18,7 @@ Coming soon.
 ---
 
 ### Preview
-![Golden and Death Cross](/pine/dfma/dfma.png#center)
+![DFMA](/pine/dfma/dfma.png#center)
 
 ---
 
