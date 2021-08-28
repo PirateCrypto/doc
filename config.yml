@@ -61,6 +61,8 @@ params:
               url: "/guides"
             - name: Cryptos
               url: "/cryptos"
+            - name: NFTs
+              url: "/nfts"
 
 menu:
     main:
@@ -80,6 +82,10 @@ menu:
           name: Cryptos
           url: /cryptos/
           weight: 4
+        - identifier: nfts
+          name: Nfts
+          url: /nfts/
+          weight: 5
 
 taxonomies:
     category: categories
