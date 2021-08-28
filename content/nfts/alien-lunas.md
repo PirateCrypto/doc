@@ -10,9 +10,11 @@ tags: ["alien-lunas"]
 ![00_GhostlyGoddess](/nfts/ghostly-goddesses/00_GhostlyGoddess.jpg#center)
 
 ### Summary
-A collection of high-quality, hand drawn digital art revolving around Alien Luna, the alien counterpart of the Greek Goddess of the Moon. Each image is unique and hand-picked for our collection.
+A collection of spooky, hand drawn NFTs starring Alien Luna, the alien counterpart of the Greek Goddess of the Moon. 
 
-*More information coming soon*
+Each Alien Luna is uniquely hand-picked and digitally enhanced to provide owners with the highest quality art possible.
+
+*More information coming soon!*
 
 ---
 ### NFT List
