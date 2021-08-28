@@ -1,10 +1,10 @@
 ---
-title: "Thorn Goddess NFTs"
-date: 2021-09-28T0:00:00-00:00
+title: "Thorn Goddess NFT Collection"
+date: 2021-08-28T0:00:00-00:00
 draft: false
 ShowToc: false
 categories: ["nfts", "opensea"]
-tags: ["thorn goddesses"]
+tags: ["thorn-goddesses"]
 ---
 
 ![01_Thorn_Goddess](/nfts/thorn-goddesses/01_ThornGoddess.jpg#center)
