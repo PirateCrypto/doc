@@ -83,7 +83,7 @@ menu:
           url: /cryptos/
           weight: 4
         - identifier: nfts
-          name: Nfts
+          name: NFTs
           url: /nfts/
           weight: 5
 
