@@ -7,7 +7,7 @@ categories: ["nfts", "opensea"]
 tags: ["astralunas"]
 ---
 
-![00_GhostlyGoddess](/nfts/ghostly-goddesses/00_GhostlyGoddess.jpg#center)
+![#00 Astraluna Sample](/nfts/astralunas/00_Astraluna_wm.jpg#center)
 
 ### Summary
 A collection of spooky, hand drawn NFTs starring Astraluna, based on the Greek Goddess of the Moon, Luna.
